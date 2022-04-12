@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build": "tsc --build",
+    "run:build": "tsc --build && node dist/index.js"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
